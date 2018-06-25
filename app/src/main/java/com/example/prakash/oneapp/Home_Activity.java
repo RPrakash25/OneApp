@@ -5,6 +5,7 @@ import android.os.Bundle;
 
 public class Home_Activity extends AppCompatActivity {
 
+    String name;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
